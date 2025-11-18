@@ -1,21 +1,30 @@
-# mminseop - 김민섭
+# 안녕하세요! 👋
 
-저는 프론트엔드 개발자를 꿈꾸는 주니어 개발자입니다.  
-React, TypeScript, Vite를 주로 사용하며 깔끔한 코드와 사용자 경험에 집중합니다.  
-함수형 컴포넌트와 RESTful API 연동, 인증 시스템 구현 경험이 있으며, 최신 Next.js App Router 구조와 SSR도 학습 중입니다.
+[translate:저는 프론트엔드 개발자를 꿈꾸는 주니어 개발자입니다.]  
+[translate:React, TypeScript, Vite를 주로 사용하며 깔끔한 코드와 사용자 경험에 집중합니다.]  
+[translate:함수형 컴포넌트와 RESTful API 연동, 인증 시스템 구현 경험이 있으며, 최신 Next.js App Router 구조와 SSR도 학습 중입니다.]
 
 ---
 
 ## 기술 스택
 
 ![React](https://skillicons.dev/icons?i=react)  
-함수형 컴포넌트, 공통 컴포넌트 및 성능 최적화 RESTful API 연동 및 인증 시스템 구현, 사용자 인증 시스템 등 3개 이상의 실전 프로젝트 경험
+[translate:함수형 컴포넌트, 공통 컴포넌트 및 성능 최적화 RESTful API 연동 및 인증 시스템 구현, 사용자 인증 시스템 등 3개 이상의 실전 프로젝트 경험]
 
 ![Next.js](https://skillicons.dev/icons?i=nextjs)  
-App Router 구조와 SSR 개념을 학습하며, 서버 사이드 렌더링 프로젝트에 도전 중
+[translate:App Router 구조와 SSR 개념을 학습하며, 서버 사이드 렌더링 프로젝트에 도전 중]
 
 ![TypeScript](https://skillicons.dev/icons?i=typescript)  
-인터페이스, 제네릭 등 타입으로 안정성 강화, React 서비스와 API 통합 프로젝트에 적극 사용 
+[translate:인터페이스, 제네릭 등 타입으로 안정성 강화, React 서비스와 API 통합 프로젝트에 적극 사용]
+
+![JavaScript](https://skillicons.dev/icons?i=javascript)  
+[translate:ES6+ 문법 활용 (async/await, 구조분해, 고차함수), 모듈화 설계 및 비동기 처리 구현]
+
+![SCSS](https://skillicons.dev/icons?i=sass)  
+[translate:중첩, 변수, 믹스인을 활용한 효율적인 스타일 관리]
+
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)  
+[translate:조건부 렌더링, 반응형 UI 구축, 실무에 최적화된 유틸리티 클래스 활용]
 
 ---
 
@@ -88,13 +97,13 @@ App Router 구조와 SSR 개념을 학습하며, 서버 사이드 렌더링 프�
 
 ## GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mminseop&show_icons=true&theme=radical)](https://github.com/mminseop)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=여기에본인아이디&show_icons=true&theme=radical)](https://github.com/여기에본인아이디)
 
 ---
 
 ## 연락처
 
-- 이메일: alstjq903@gmail.com  
-- 포트폴리오: https://yourportfolio.com](https://mminseop-portfolio.vercel.app/
-
+- 이메일: your.email@example.com  
+- 블로그: https://yourblog.com  
+- 포트폴리오: https://yourportfolio.com
 
