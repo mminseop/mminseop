@@ -1,4 +1,4 @@
-# 안녕하세요
+# 안녕하세요! 김민섭입니다
 ---
 
 ## GitHub Stats
@@ -9,7 +9,6 @@
 
 ## 연락처
 
-- 이메일: your.email@example.com  
-- 블로그: https://yourblog.com  
-- 포트폴리오: https://yourportfolio.com
+- 이메일: alstjq903@gmail.com  
+- 포트폴리오: [https://yourportfolio.com](https://mminseop-portfolio.vercel.app/)
 
