@@ -1,4 +1,4 @@
-# 안녕하세요! 👋
+# 안녕하세요!
 
 [translate:저는 프론트엔드 개발자를 꿈꾸는 주니어 개발자입니다.]  
 [translate:React, TypeScript, Vite를 주로 사용하며 깔끔한 코드와 사용자 경험에 집중합니다.]  
@@ -97,7 +97,7 @@
 
 ## GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=여기에본인아이디&show_icons=true&theme=radical)](https://github.com/여기에본인아이디)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mminseop&show_icons=true&theme=radical)](https://github.com/mminseop)
 
 ---
 
