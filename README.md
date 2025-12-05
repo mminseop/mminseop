@@ -23,16 +23,16 @@ const developer = {
   name: "김민섭",
   location: "Seoul, South Korea 🇰🇷",
   role: "Frontend Developer",
-  currentFocus: ["Next.js 15", "React", "Slack Bot Integration"],
+  currentFocus: ["Next.js 15", "Slack Bot Integration"],
   learning: ["TypeScript", "Backend Development", "DevOps"],
   techStack: {
-  frontend: ["React", "Next.js", "TypeScript", "JavaScript"],
-  backend: ["Node.js", "Express", "MariaDB"],
-  devOps: ["AWS EC2", "Nginx", "Vercel"]
-},
-currentProjects: {
-  teamCollab: "Next.js 15 기반 팀 협업 플랫폼 및 Slack bot 연동"
-}
+    frontend: ["React", "Next.js", "TypeScript", "JavaScript"],
+    backend: ["Node.js", "Express", "MariaDB"],
+    devOps: ["AWS EC2", "Nginx", "Vercel"]
+  },
+  currentProjects: {
+    teamCollab: "Next.js 15 기반 팀 협업 플랫폼 및 Slack bot 연동"
+  }
 };
 ```
 
