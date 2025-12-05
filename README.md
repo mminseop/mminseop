@@ -20,18 +20,18 @@
 ### 👨‍💻 About Me
 ```typescript
 const developer = {
-name: "김민섭",
-location: "Seoul, South Korea 🇰🇷",
-role: "Frontend Developer",
-currentFocus: ["Next.js 15", "React", "Slack Bot Integration"],
-learning: ["TypeScript", "Backend Development", "DevOps"],
-techStack: {
-frontend: ["React", "Next.js", "TypeScript", "JavaScript"],
-backend: ["Node.js", "Express", "MariaDB"],
-devOps: ["AWS EC2", "Nginx", "Vercel"]
+  name: "김민섭",
+  location: "Seoul, South Korea 🇰🇷",
+  role: "Frontend Developer",
+  currentFocus: ["Next.js 15", "React", "Slack Bot Integration"],
+  learning: ["TypeScript", "Backend Development", "DevOps"],
+  techStack: {
+  frontend: ["React", "Next.js", "TypeScript", "JavaScript"],
+  backend: ["Node.js", "Express", "MariaDB"],
+  devOps: ["AWS EC2", "Nginx", "Vercel"]
 },
 currentProjects: {
-teamCollab: "Next.js 15 기반 팀 협업 플랫폼 및 Slack bot 연동"
+  teamCollab: "Next.js 15 기반 팀 협업 플랫폼 및 Slack bot 연동"
 }
 };
 ```
@@ -55,7 +55,7 @@ teamCollab: "Next.js 15 기반 팀 협업 플랫폼 및 Slack bot 연동"
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-#### ⚙️ Backend (Learning)
+#### ⚙️ Backend
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -85,24 +85,19 @@ teamCollab: "Next.js 15 기반 팀 협업 플랫폼 및 Slack bot 연동"
 
 </div>
 
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mminseop&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-</div>
-
 ---
 
 ### 🚀 Current Projects
 
-#### 🤝 Team Collaboration Platform
+#### 🤝 TeamCollab
 - **Tech**: Next.js 15, React 19, TypeScript
 - **Features**: Next.js 15 최신 기능 학습 및 팀 협업 도구 구현
 - **Integration**: Slack Bot 통합 시스템
 
 #### 📚 Recent Work
-- **StudyHub**: 스터디 관리 플랫폼
 - **TasteMap**: 맛집 지도 서비스
+- **LOV2LY BOOKS**: 도서 쇼핑몰 플랫폼
+- **StudyHub**: 스터디 관리 플랫폼
 - **TeamCollab**: 팀 커뮤니케이션 및 Slack Bot 연동
 
 ---
