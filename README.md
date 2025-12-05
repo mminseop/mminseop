@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=김민섭&fontSize=80&animation=fadeIn" />
 </div>
 
-<h3 align="center">💻 Frontend Developer | React & Next.js Specialist</h3>
+<h3 align="center">💻 Frontend Developer | React & Next.js</h3>
 
 <div align="center">
   
@@ -18,7 +18,7 @@
 ---
 
 ### 👨‍💻 About Me
-
+```typescript
 const developer = {
 name: "김민섭",
 location: "Seoul, South Korea 🇰🇷",
@@ -35,7 +35,7 @@ teamCollab: "Next.js 15 기반 팀 협업 플랫폼",
 slackBot: "Slack Bot 통합 시스템"
 }
 };
-
+```
 
 ---
 
