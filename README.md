@@ -106,7 +106,7 @@ currentProjects: {
 
 - 🎨 **Frontend Focus**: React & Next.js
 - 🔧 **Backend Learning**: Node.js, Express, MariaDB
-- 🌐 **DevOps**: AWS EC2 & Nginx 배포 자동화
+- 🌐 **DevOps**: AWS EC2 & Nginx , Git Actions & Runners CI/CD 자동화
 - 🤖 **Integration**: Slack Bot API 연동 및 자동화
 - 📈 **Next Step**: 풀스택 역량 확장
 
