@@ -10,5 +10,5 @@
 ## 연락처
 
 - 이메일: alstjq903@gmail.com  
-- 포트폴리오: (https://minseop.dev/)
+- 포트폴리오: https://minseop.dev/
 
