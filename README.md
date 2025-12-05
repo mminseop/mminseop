@@ -89,7 +89,7 @@ currentProjects: {
 
 ### 🚀 Current Projects
 
-#### 🤝 TeamCollab
+#### 🤝 TeamCollab - 팀 커뮤니케이션 및 Slack Bot 연동
 - **Tech**: Next.js 15, React 19, TypeScript
 - **Features**: Next.js 15 최신 기능 학습 및 팀 협업 도구 구현
 - **Integration**: Slack Bot 통합 시스템
@@ -98,7 +98,6 @@ currentProjects: {
 - **TasteMap**: 맛집 지도 서비스
 - **LOV2LY BOOKS**: 도서 쇼핑몰 플랫폼
 - **StudyHub**: 스터디 관리 플랫폼
-- **TeamCollab**: 팀 커뮤니케이션 및 Slack Bot 연동
 
 ---
 
