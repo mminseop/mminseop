@@ -1,14 +1,14 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=김민섭&fontSize=80&animation=fadeIn" />
-</div>
+</div> -->
 
 <h3 align="center">💻 Frontend Developer | React & Next.js</h3>
 
-<div align="center">
+<!-- <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=mminseop&color=blueviolet)
 
-</div>
+</div> -->
 
 <p align="center">
   <a href="https://minseop.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
