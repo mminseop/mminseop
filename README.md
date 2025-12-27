@@ -65,30 +65,6 @@
 
 ---
 
-### 🚀 Current Projects
-
-#### 🤝 TeamCollab - 팀 커뮤니케이션 및 Slack Bot 연동
-- **Tech**: Next.js 15, React 19, TypeScript
-- **Features**: Next.js 15 최신 기능 학습 및 팀 협업 도구 구현
-- **Integration**: Slack Bot 통합 시스템
-
-#### 📚 Recent Work
-- **TasteMap**: 맛집 지도 서비스
-- **LOV2LY BOOKS**: 도서 쇼핑몰 플랫폼
-- **StudyHub**: 스터디 관리 플랫폼
-
----
-
-### 🎯 Learning & Goals
-
-- 🎨 **Frontend Focus**: React & Next.js
-- 🔧 **Backend Learning**: Node.js, Express, MariaDB
-- 🌐 **DevOps**: AWS EC2 & Nginx , Git Actions & Runners CI/CD 자동화
-- 🤖 **Integration**: Slack Bot API 연동 및 자동화
-- 📈 **Next Step**: 풀스택 역량 확장
-
----
-
 ### 📫 Contact
 
 <p align="center">
