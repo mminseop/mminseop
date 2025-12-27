@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=김민섭&fontSize=80&animation=fadeIn" />
 </div> -->
 
-<h3 align="center">💻 Frontend Developer | React & Next.js</h3>
+<h3 align="center">Frontend Developer | React & Next.js</h3>
 
 <!-- <div align="center">
   
@@ -17,9 +17,9 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-#### 🎨 Frontend
+#### Frontend
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-#### ⚙️ Backend
+#### Backend
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-#### 🚀 DevOps & Tools
+#### DevOps & Tools
 
 <p>
   <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -55,7 +55,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   
@@ -65,7 +65,7 @@
 
 ---
 
-### 📫 Contact
+### Contact
 
 <p align="center">
   <a href="mailto:alstjq903@gmail.com">
@@ -79,6 +79,6 @@
   </a>
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
+</div> -->
